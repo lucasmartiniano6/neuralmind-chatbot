@@ -5,10 +5,11 @@ from langchain.vectorstores import FAISS
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.llms import OpenAI
 from dotenv import load_dotenv
+import os
 import streamlit as st
 
 def main():
-    load_dotenv() # load api-key
+    # load_dotenv() # load api-key from .env file
     
     filename = "./output.txt" # fonte de conhecimento confiável (gerado do site da PG-Unicamp, olhe ./fetch.py para mais info)
     txt = open(filename,"r").read()
@@ -46,4 +47,15 @@ def main():
     st.image(image_url, width=250) # logo da unicamp
 
 if __name__ == '__main__':
-    main()
+    if 'auth' not in st.session_state:
+        st.session_state.auth = False
+
+    if not st.session_state.auth:
+        st.header("API Key Auth")
+        api_key = st.text_input("Digite sua API key:", type="password")
+        if api_key:
+            os.environ["OPENAI_API_KEY"] = api_key 
+            st.session_state.auth = True
+            st.experimental_rerun()
+    else:
+        main()
