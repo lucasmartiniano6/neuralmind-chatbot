@@ -1,0 +1,38 @@
+Pergunta: Quem é o reitor da Unicamp? Resposta: Maria Luiza Moretti.
+Pergunta: Qual é o título do Capítulo I da resolução? Resposta: Vagas e sistemas de ingresso
+Pergunta: Qual o propósito da Resolução GR-031/2023? Resposta: Dispõe sobre o Vestibular Unicamp 2024 para vagas no ensino de Graduação
+Pergunta: Que deliberação do CONSU é considerada na resolução? Resposta: Deliberação CONSU-A-032/2017.
+Pergunta: Qual o tema principal da Deliberação CONSU-A-032/2017? Resposta: Especifica sobre os sistemas de ingresso aos Cursos de Graduação da Unicamp
+Pergunta: Para que serve a Resolução Vestibular Unicamp 2024 mencionada no documento? Resposta: Para tornar pública as regras e processos do Vestibular Unicamp 2024 para vagas no ensino de Graduação
+Pergunta: Qual a instituição responsável pela resolução mencionada no documento? Resposta: Universidade Estadual de Campinas (Unicamp).
+Pergunta: Qual é o número mínimo e máximo de vagas para a reserva de vagas para PP no curso de Engenharia de Computação Integral? Resposta: Mínimo de 14 e máximo de 24
+Pergunta: Quantas vagas totais são oferecidas para o curso de Ciências Econômicas Integral? Resposta: 70
+Pergunta: Qual é a quantidade de vagas mínimas destinadas à ampla concorrência no curso de Medicina Integral? Resposta: 56
+Pergunta: Quais cursos não oferecem vagas no Edital Enem-Unicamp, conforme o documento? Resposta: Artes Cênicas Integral, Artes Visuais Integral, e Música: Composição Integral.
+Pergunta: Qual é o total de vagas regulares oferecidas para todos os cursos listados no documento? Resposta: 3340
+Pergunta: Quais habilidades gerais são avaliadas nas provas do Vestibular Unicamp mencionadas no documento? Resposta: Identificar e reconhecer, inferir, analisar criticamente, comparar, formular hipóteses a partir de evidências, aplicar.
+Pergunta: Quantas questões objetivas compõem a prova de primeira fase do Vestibular Unicamp? Resposta: 72
+Pergunta: Quais disciplinas são avaliadas com questões interdisciplinares de língua inglesa na segunda fase? Resposta: Ciências Humanas e Ciências Naturais.
+Pergunta: Qual é a composição das provas para candidatos da área de Ciências Humanas/Artes na segunda fase? Resposta: 4 questões de Matemática, 6 de Geografia, 6 de História, 1 de Filosofia e 1 de Sociologia.
+Pergunta: Que tipo de textos os candidatos devem produzir na prova de Redação? Resposta: Textos pertencentes a diferentes gêneros discursivos.
+Pergunta: Qual é a expectativa em relação à leitura dos textos fornecidos na prova de Redação? Resposta: Espera-se que os candidatos façam uma leitura crítica dos textos e saibam mobilizá-los em função do seu projeto de escrita.
+Pergunta: Como são avaliados os textos produzidos pelos candidatos na prova de Redação? Resposta: A avaliação considera o cumprimento da proposta temática, a configuração do gênero, a qualidade da leitura dos textos e a articulação coerente e coesa de elementos da escrita.
+Pergunta: Quais situações podem levar à anulação de uma redação? Resposta: Abordar outro tema que não o da proposta escolhida, não cumprir as tarefas solicitadas, ou simplesmente reproduzir textos da prova em forma de colagem.
+Pergunta: Qual é o foco das provas de Língua Portuguesa do Vestibular Unicamp? Resposta: Avaliar a capacidade do candidato em reconhecer a língua como fenômeno sociocultural e em analisar o funcionamento da língua de acordo com a situação de produção do discurso.
+Pergunta: Quais habilidades são exigidas para a prova de Literaturas de Língua Portuguesa? Resposta: Capacidade de leitura
+Pergunta: Quem escreveu o livro Seminário dos Ratos? Resposta: Lygia Fagundes Telles.
+Pergunta: Quem escrever o livro O Ateneu? Resposta: Raul Pompéia.
+Pergunta: Qual o livro de Macho de Assis cobrado na prova? Resposta: Casa Velha
+Pergunta: Quais conhecimentos de Matemática são testados nas provas do Vestibular Unicamp mencionadas no documento? Resposta: Conhecimento crítico e integrado da Matemática do ensino fundamental e médio, incluindo a resolução de problemas matemáticos do cotidiano, interpretação e elaboração de tabelas e gráficos, e o conhecimento de definições e principais teoremas.
+Pergunta: Quais conceitos relacionados a conjutos numéricos e números primos são abordados nas provas? Resposta: Números primos, fatoração, número de divisores, máximo divisor comum e mínimo múltiplo comum.
+Pergunta: Como são testadas as habilidades relacionadas a funções na prova de Matemática? Resposta: Através de questões sobre funções lineares ou afins, funções quadráticas, e outras funções como y = k/x, y = raiz de x, y = |x|, incluindo seus gráficos e equações envolvendo funções.
+Pergunta: Quais tópicos de Geometria Plana são avaliados nas provas? Resposta: Congruência de figuras geométricas, teoremas relacionados a triângulos, quadriláteros notáveis, polígonos regulares, e conceitos de inscrição e circunscrição.
+Pergunta: Que aspectos da Geometria Espacial são testados? Resposta: Paralelismo e perpendicularidade entre retas e planos, características de poliedros, prismas, pirâmides, cilindros, cones, esferas, e seus respectivos cálculos de áreas e volumes.
+Pergunta: Quais conceitos de Ciências Biológicas são relacionados com Hereditariedade e material genético? Resposta: DNA e RNA
+Pergunta: Quem é o autor da peça As três irmãs? Resposta: Anton Tchekhov 
+Pergunta: Quem é o autor da peça A tempestade? Resposta: William Shakespeare
+Pergunta: Quantas vagas tem o curso de Bacharelado de Música Popular? Resposta: 2
+Pergunta: Qual a área do curso de Administração (Noturno)? Resposta: Ciências Humanas/Artes 
+Pergunta: Qual a área do curso de Engenharia Civil? Resposta: Ciências Exatas/Tecnológicas
+Pergunta: Qual a área do curso de Engenharia Civil? Resposta: Ciências Exatas/Tecnológicas
+Pergunta: Qual a área do curso de Medicina? Resposta: Ciências Biológicas/Saúde
