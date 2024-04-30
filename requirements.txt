@@ -11,4 +11,3 @@ python-dotenv
 tiktoken
 openai==0.28.1
 faiss-cpu
-faiss-gpu
