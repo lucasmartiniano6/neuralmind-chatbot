@@ -52,7 +52,9 @@ Blocos de tamanho 800, overlap 150
 
 Nice TODO
 -----
-
+* Testar outros string evaluators e analisar o comportamento (eg.: scoring eval, edit dist.)
+* Criar um questionário de perguntas maior (eg.: perguntas mais complexas)
+* Analisar outros retrievers (eg.: MultiQueryRetriever, MultiVectorRetriever)
 
 Referências
 -----
