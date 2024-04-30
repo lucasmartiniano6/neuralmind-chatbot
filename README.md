@@ -4,7 +4,7 @@ Projeto da Neuralmind de um chatbot para responder perguntas sobre o Vestibular 
 
 Uso
 -----
-Primeiro, instale as dependências necessárias e coloque sua chave da API-OpenAI em ```.env```
+Primeiro, instale as dependências necessárias
 ```
 pip install -r requirements.txt
 ```
@@ -12,7 +12,7 @@ Em seguida, é possível rodar o chatbot localmente com:
 ```
 streamlit run main.py
 ```
-Para submeter o chatbot ao questiónario de teste rode:
+Para submeter o chatbot ao questiónario de teste, coloque sua chave da API-OpenAI em ```.env``` e rode:
 ```
 python3 eval.py
 ```
