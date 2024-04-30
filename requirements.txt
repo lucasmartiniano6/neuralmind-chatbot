@@ -10,3 +10,5 @@ streamlit-chat==0.1.1
 python-dotenv
 tiktoken
 openai==0.28.1
+faiss-cpu
+faiss-gpu
