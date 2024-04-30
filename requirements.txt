@@ -8,5 +8,5 @@ soupsieve==2.3.2.post1
 streamlit==1.28.1
 streamlit-chat==0.1.1
 python-dotenv
-openai
 tiktoken
+openai==0.28.1
